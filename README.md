@@ -89,7 +89,3 @@ Note in the Explorer window that these folders are now use a nested experience i
 Back in settings, choose your preferred setting for this Compact Folders and feel free to browse for other customizations you may wish to make
 
 Congratulations on a non-zero day!
-
-### Resources
-- [Bootstrap - Getting Started](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-- [HTML Living Spec](https://html.spec.whatwg.org/)
