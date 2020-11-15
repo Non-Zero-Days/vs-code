@@ -4,7 +4,7 @@
 Install [Visual Studio Code](https://code.visualstudio.com/Download)
 
 ### Loose Agenda:
-Gain famliarity with basic workflows in Visual Studio Code
+Gain familiarity with basic workflows in Visual Studio Code
 
 ### Step by Step
 Create a directory for this exercise
