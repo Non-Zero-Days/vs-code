@@ -1,4 +1,4 @@
-## vs-code
+## Visual Studio Code
 
 ### Prerequisites:
 Install [Visual Studio Code](https://code.visualstudio.com/Download)
